@@ -1,0 +1,5 @@
+{
+  "name": "Web Drive V",
+  "description": "A web-based car driving simulator inspired by the open-world experience of games like GTA V. Drive around a 2D city, and get random mission briefings from an AI to spark your imagination.",
+  "requestFramePermissions": []
+}
